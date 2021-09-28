@@ -1,1 +1,6 @@
-{"Create":{ "success": true, "title": "Post 1" }}
+{
+	"Create": {
+		"success": true,
+		"title": "Post 1"
+	}
+}
